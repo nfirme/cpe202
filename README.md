@@ -1,3 +1,1 @@
-# cpe202
-Data Structures (Fall 2018)
-Files for my labs and projects from CPE 202 - Data Structures.
+Project and lab files for CPE 202 Data Structures, taken Fall 2018.
